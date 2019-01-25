@@ -45,5 +45,5 @@ const loginUserSuccess = (dispatch, user) => {
     }
   );
 
-  Actions.employeeList();
+  Actions.main();
 };
